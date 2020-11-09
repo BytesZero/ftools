@@ -1,4 +1,4 @@
-group 'com.example.ftools'
+group 'com.zero.ftools'
 version '1.0'
 
 buildscript {

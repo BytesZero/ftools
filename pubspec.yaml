@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.ftools
+        package: com.zero.ftools
         pluginClass: FtoolsPlugin
       ios:
         pluginClass: FtoolsPlugin
