@@ -1,8 +1,8 @@
 name: ftools
-description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+description: Flutter 工具插件
+version: 1.0.0
+author: Zero <zhengsonglan001@gmail.com>
+homepage: https://github.com/yy1300326388
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
