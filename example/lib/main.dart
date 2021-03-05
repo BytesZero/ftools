@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
           ),
           body: Column(
             children: <Widget>[
-              RaisedButton.icon(
+              TextButton.icon(
                 icon: Icon(Icons.home),
                 label: Text('按下 Home 键（仅支持Android）'),
                 onPressed: () {
